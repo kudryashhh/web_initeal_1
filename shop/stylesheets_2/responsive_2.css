@@ -1,0 +1,687 @@
+@media screen and (min-width: 1920px){
+    
+
+    .navbar_on{
+        margin-top: 2%;
+    }
+
+    #back_to_menu_on{
+        z-index: 3;
+        position: absolute;
+        font-size: 1.4vw;
+        margin-left: -9.2%;
+    }
+    
+    #shop_on{
+        position: absolute;
+        margin-left: -3.9%;
+    }
+    
+    #space_on{
+        position: absolute;
+        margin-left: 16%;
+    }
+    
+    #manifesto_on{
+        position: absolute;
+        margin-left: 40.3%;
+    }
+    #ceremony_on{
+        position: absolute;
+        margin-left: 61.6%;
+    }
+    
+    #events_on{
+       
+        position: absolute;
+        margin-left: 83.6%;
+    }
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 1.4vw;
+        margin-left: -5.6%;
+    }
+    }
+    @media screen and (min-width: 1440px)and (max-width: 1919px){
+        .f_1{
+            margin-top: 34%;
+        }
+        .f_2{
+            margin-top: 35%;
+        }
+        .f_3{
+            margin-top: 13%;
+            margin-left: -1%;
+        }
+
+        .v1{
+            width: 10%;
+            margin-top: 25%;
+        }
+
+        .v2{
+            width: 10%;
+            margin-top: 38%;
+        }
+    
+        .navbar_on{
+            margin-top: 2%;
+        } 
+    }
+
+    @media screen and (min-width: 1366px)and (max-width: 1439px){
+        .f_1{
+            margin-top: 17%;
+        }
+        .f_2{
+            margin-top: 20%;
+        }
+        .f_3{
+            margin-top: 7%;
+            margin-left: -1%;
+        }
+
+        .v1{
+            width: 10%;
+            margin-top: 20%;
+        }
+
+        .v2{
+            width: 10%;
+            margin-top: 32%;
+        }
+    
+        .navbar_on{
+            margin-top: 2%;
+        } 
+
+        #back_to_menu_on{
+            z-index: 3;
+            position: absolute;
+            font-size: 1.4vw;
+            margin-left: -9.2%;
+        }
+        
+        #shop_on{
+            position: absolute;
+            margin-left: -3.9%;
+        }
+        
+        #space_on{
+            position: absolute;
+            margin-left: 16%;
+        }
+        
+        #manifesto_on{
+            position: absolute;
+            margin-left: 40.4%;
+        }
+        #ceremony_on{
+            position: absolute;
+            margin-left: 61.91%;
+        }
+        
+    
+        
+        #back_to_menu{
+            z-index: 3;
+            position: absolute;
+            font-size: 1.4vw;
+            margin-left: -5.6%;
+        }
+        
+    }
+        
+    
+    @media screen and (min-width: 1024px)and (max-width: 1365px){
+        .back_1{
+            margin-top: -10%;
+            width: 100.2%;
+            height: 100vw;
+            overflow: hidden;
+            margin-left: -0.75%;
+
+        }
+        .back1_1{
+            width: 100%;
+            
+        }
+
+    
+
+       
+
+    .navbar{
+        font-size: 2vw;
+        word-spacing: 8vw;
+    } 
+    .navbar_on{
+        margin-top: 2%;
+    }  
+
+    #back_to_menu_on{
+        z-index: 3;
+        position: absolute;
+        font-size: 2vw;
+        margin-left: -9.2%;
+    }
+    
+    #shop_on{
+        font-size: 2vw;
+        position: absolute;
+        margin-left: -4%;
+    }
+    
+    #space_on{
+        font-size: 2vw;
+        position: absolute;
+        margin-left: 14.3%;
+    }
+    
+    #manifesto_on{
+        font-size: 2vw;
+        position: absolute;
+        margin-left: 38.9%;
+    }
+    #ceremony_on{
+        font-size: 2vw;
+        position: absolute;
+        margin-left: 59.2%;
+    }
+    
+    #events_on{
+        font-size: 2vw;
+        position: absolute;
+        margin-left: 80.7%;
+    }
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 2vw;
+        margin-left: -5.6%;
+    }
+    }
+    
+    @media screen and (min-width: 768px)and (max-width: 1023px){
+        .back_1{
+            margin-top: -22%;
+            width: 100.2%;
+            height: 200vw;
+            overflow: hidden;
+
+        }
+        .back1_1{
+            width: 135%;
+            
+        }
+
+       .back_2{
+        overflow: hidden;
+        width: 100%;
+        height: 120vw;
+        margin-top: 90%;
+       }
+
+       .back2_2{
+        transform: rotate(90deg);
+        width: 120%;
+        margin-left: -0.5%;
+       }
+
+       .notebook{
+        width: 40%;
+        margin-top: 10%;
+       }
+
+       .notebook_flower{
+        width: 35%;
+        margin-top: 36%;
+       }
+
+       .tea{
+        width: 43%;
+        margin-top: 85%;
+        margin-left: 30%;
+       }
+
+       .tea_flower{
+        width: 45%;
+        margin-top: 48%;
+        margin-left: 34%;
+       }
+
+       .disk{
+        width: 30%;
+        margin-left: 60%;
+       }
+
+       .disk_flower{
+        width: 35%;
+        margin-left: 57%;
+        margin-top: 4%;
+       }
+
+       .menu{
+        margin-top: 120%;
+        width: 30%;
+        margin-left: 65%;
+       }
+
+       .breloki{
+        width: 33%;
+        margin-top: 110%;
+       }
+
+       .notebook{
+        width: 30%;
+        margin-top: 10%;
+       }
+
+       .notebook_flower{
+        width: 35%;
+        margin-top: 36%;
+       }
+
+       .envelope{
+        margin-top: 182%;
+        width: 45%;
+        margin-left: 28%;
+       }
+
+       .envelope_flower{
+        margin-top: 150%;
+        z-index: 3;
+        width: 65%;
+        margin-left: 20%;
+       }
+
+    .navbar{
+        font-size: 2.8vw;
+        word-spacing: 4vw;
+    } 
+    .navbar_on{
+        margin-top: 2%;
+    }  
+
+    #back_to_menu_on{
+        z-index: 3;
+        position: absolute;
+        font-size: 2.8vw;
+        margin-left: -9.2%;
+    }
+    
+    #shop_on{
+        font-size: 2.8vw;
+        position: absolute;
+        margin-left: -4.4%;
+    }
+    
+    #space_on{
+        font-size: 2.8vw;
+        position: absolute;
+        margin-left: 13.4%;
+    }
+    
+    #manifesto_on{
+        font-size: 2.8vw;
+        position: absolute;
+        margin-left: 39.9%;
+    }
+    #ceremony_on{
+        font-size: 2.8vw;
+        position: absolute;
+        margin-left: 60.4%;
+    }
+    
+    #events_on{
+        font-size: 2.8vw;
+        position: absolute;
+        margin-left: 82.5%;
+    }
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 2.8vw;
+        margin-left: -5.6%;
+    }  
+    }
+    @media screen and (min-width: 414px)and (max-width: 767px){
+        .back_1{
+            margin-top: -2%;
+            margin-left: -2%;
+            width: 105%;
+            height: 383vw;
+            overflow: hidden;
+
+        }
+        .back1_1{
+            width: 237%;
+            transform: rotate(90deg);
+            
+        }
+
+        back_2{
+            overflow: hidden;
+            width: 100%;
+            height: 210vw;
+            margin-top: 200%;
+           }
+    
+           .back2_2{
+            transform: rotate(90deg);
+            width: 260%;
+            margin-left: -0.5%;
+           }
+
+        .notebook{
+            display: none;
+            width: 100%;
+            margin-top: 10%;
+           }
+    
+           .notebook_flower{
+            display: none;
+            width: 35%;
+            margin-top: 36%;
+           }
+    
+           .tea{
+            overflow: hidden;
+            width: 93%;
+            margin-top: 295%;
+            margin-left: 2%;
+           }
+    
+           .tea_flower{
+            display: none;
+            width: 45%;
+            margin-top: 48%;
+            margin-left: 34%;
+           }
+    
+           .disk{
+            width: 80%;
+            margin-left: 10%;
+            margin-top: 90%;
+           }
+    
+           .disk_flower{
+            display: none;
+            width: 87%;
+            margin-left: 4%;
+            margin-top: 64%;
+           }
+    
+           .menu{
+            display: none;
+            margin-top: 120%;
+            width: 30%;
+            margin-left: 65%;
+           }
+    
+           .breloki{
+            width: 73%;
+            margin-top: 180%;
+            margin-left: 14%;
+           }
+    
+           .notebook{
+            display: none;
+            width: 30%;
+            margin-top: 10%;
+           }
+    
+           .notebook_flower{
+            display: none;
+            width: 35%;
+            margin-top: 36%;
+           }
+    
+           .envelope{
+            display: none;
+            margin-top: 182%;
+            width: 45%;
+            margin-left: 28%;
+           }
+    
+           .envelope_flower{
+            display: none;
+            margin-top: 150%;
+            z-index: 3;
+            width: 65%;
+            margin-left: 20%;
+           }
+
+    
+
+    .navbar{
+       z-index: 3;
+        font-size: 9vw;
+        word-spacing: 6vw;
+        margin-top: 2%;
+        margin-left: 13%;
+    } 
+
+    .navbar_on{
+        display: none;
+        margin-top: 2%;
+    }  
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 9vw;
+        margin-left: -10%;
+    }  
+    }
+    @media screen and (min-width: 360px)and (max-width: 413px){ 
+        .back_1{
+            margin-top: -2%;
+            margin-left: -2%;
+            width: 105%;
+            height: 383vw;
+            overflow: hidden;
+
+        }
+        .back1_1{
+            width: 237%;
+            transform: rotate(90deg);
+            
+        }
+
+        back_2{
+            overflow: hidden;
+            width: 100%;
+            height: 210vw;
+            margin-top: 200%;
+           }
+    
+           .back2_2{
+            transform: rotate(90deg);
+            width: 260%;
+            margin-left: -0.5%;
+           }
+
+        .notebook{
+            display: none;
+            width: 100%;
+            margin-top: 10%;
+           }
+    
+           .notebook_flower{
+            display: none;
+            width: 35%;
+            margin-top: 36%;
+           }
+    
+           .tea{
+            overflow: hidden;
+            width: 93%;
+            margin-top: 295%;
+            margin-left: 2%;
+           }
+    
+           .tea_flower{
+            display: none;
+            width: 45%;
+            margin-top: 48%;
+            margin-left: 34%;
+           }
+    
+           .disk{
+            width: 80%;
+            margin-left: 10%;
+            margin-top: 90%;
+           }
+    
+           .disk_flower{
+            display: none;
+            width: 87%;
+            margin-left: 4%;
+            margin-top: 64%;
+           }
+    
+           .menu{
+            display: none;
+            margin-top: 120%;
+            width: 30%;
+            margin-left: 65%;
+           }
+    
+           .breloki{
+            width: 73%;
+            margin-top: 180%;
+            margin-left: 14%;
+           }
+    
+           .notebook{
+            display: none;
+            width: 30%;
+            margin-top: 10%;
+           }
+    
+           .notebook_flower{
+            display: none;
+            width: 35%;
+            margin-top: 36%;
+           }
+    
+           .envelope{
+            display: none;
+            margin-top: 182%;
+            width: 45%;
+            margin-left: 28%;
+           }
+    
+           .envelope_flower{
+            display: none;
+            margin-top: 150%;
+            z-index: 3;
+            width: 65%;
+            margin-left: 20%;
+           }
+
+    
+
+    .navbar{
+       z-index: 3;
+        font-size: 9vw;
+        word-spacing: 6vw;
+        margin-top: 2%;
+        margin-left: 13%;
+    } 
+
+    .navbar_on{
+        display: none;
+        margin-top: 2%;
+    }  
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 9vw;
+        margin-left: -10%;
+    }  
+    }
+    
+    @media screen and (min-width: 0px)and (max-width: 359px){ 
+        .back_1{
+            margin-top: -23.5%;
+            margin-left: -3%;
+            width: 105%;
+            height: 280vw;
+            overflow: hidden;
+
+        }
+        .back1_1{
+            width: 155.6%;
+            transform: rotate(90deg);
+            
+        }
+
+       .f_1{
+        width: 260%;
+        margin-top: 210%;
+        
+    }
+    .f_2{
+        display: none;
+        margin-top: 90%;
+    }
+    
+    .f_3{
+        display: none;
+        width: 130%;
+        margin-top: 16%;
+        margin-left: -29%;
+    }
+
+    .v1{
+        z-index: 3;
+        width: 35%;
+        margin-top: 55%;
+        margin-left: 60%;
+    }
+
+    .v2{
+        display: none;
+        z-index: 3;
+        width: 35%;
+        margin-top: 72%;
+        margin-left: 40%;
+    }
+
+    .v3{
+        z-index: 3;
+        display: none;
+        width: 12%;
+        margin-top: -2%;
+        margin-left: 10%;
+    }
+
+    
+
+    .navbar{
+       z-index: 3;
+        font-size: 9vw;
+        word-spacing: 6vw;
+        margin-top: 2%;
+        margin-left: 13%;
+    } 
+
+    .navbar_on{
+        display: none;
+        margin-top: 2%;
+    }  
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 9vw;
+        margin-left: -10%;
+    } 
+    }

@@ -1,0 +1,316 @@
+body{
+    overflow-x: hidden;
+   }
+
+  body::-webkit-scrollbar {
+    position: absolute;
+    width: 4px;               /* ширина scrollbar */
+  }
+  body::-webkit-scrollbar-track {
+    position: absolute;
+    background: rgb(155, 186, 110);
+    overflow: overlay;        /* цвет дорожки */
+  }
+  body::-webkit-scrollbar-thumb {
+    position: absolute;   /* цвет плашки */
+    border-radius: 3px;       /* закругления плашки */
+    border: 30px solid rgb(255, 255, 255);  /* padding вокруг плашки */
+  }
+
+   .back_1{
+       position: absolute;
+       width: 100%;
+       margin-left: -0.967%;
+   }
+   
+   .back1_1{
+       position: absolute;
+       width: 73%;
+       rotate: 90deg;
+       margin-top: -31.98%;
+   }
+   
+   .back_2{
+    overflow: hidden;
+    height: 102.5vw;
+    position: absolute;
+    width: 100.5%;
+    margin-left: -0.967%;
+}
+
+.back2_2{
+    position: absolute;
+    width: 73%;
+    rotate: 90deg;
+    margin-top: 40.5%;
+}
+
+.back_3{
+    position: absolute;
+    width: 102%;
+    height: 98%;
+    overflow: hidden;
+    margin-left: -0.967%;
+    margin-top: 73%;
+}
+
+.back3_3{
+    position: absolute;
+    width: 73%;
+    rotate: 90deg;
+}
+   .navbar{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: absolute;
+       margin-left: 6.8%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   .navbar_on{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: relative;
+       margin-left: 10%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   #back_to_menu_on{
+       display: none;
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -9.2%;
+   }
+   
+   #shop_on{
+    display: none;
+       position: absolute;
+       margin-left: -3.9%;
+   }
+   
+   #space_on{
+       position: absolute;
+       margin-left: 16%;
+   }
+   
+   #manifesto_on{
+    display: none;
+       position: absolute;
+       margin-left: 40.35%;
+   }
+   #ceremony_on{
+    display: none;
+       position: absolute;
+       margin-left: 61.75%;
+   }
+   
+   #events_on{
+    display: none;
+       position: absolute;
+       margin-left: 83.8%;
+   }
+   
+   #back_to_menu{
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -5.6%;
+   }
+
+   #back_to_menu:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   #events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#ceremony:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#manifesto:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#shop:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   .photo{
+    
+    position: absolute;
+    z-index: 2;
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 2%;
+   }
+   .foto_tree{
+    position: absolute;
+    width: 100%;
+   }
+
+   .foto_tree_2{
+    position: absolute;
+    width: 100%;
+    margin-left: 108.5%;
+   }
+
+   .table{
+    position: absolute;
+    width: 100%;
+    margin-left: 217%;
+   }
+
+   .page_1{
+    position: absolute;
+    width: 42%;
+    z-index: 6;
+    margin-top: 35.5%;
+    margin-left: 28%;
+    rotate: 2deg;
+    cursor: pointer;
+    display: block;
+   }
+   .page_2{
+    position: absolute;
+    width: 42%;
+    z-index: 5;
+    margin-top: 35.5%;
+    margin-left: 28%;
+    rotate: -4deg;
+    cursor: pointer;
+   }
+   .page_3{
+    position: absolute;
+    width: 42%;
+    z-index: 4;
+    margin-top:35.5%;
+    margin-left: 28%;
+    rotate: 5deg;
+    cursor: pointer;
+   }
+   .page_4{
+    position: absolute;
+    width: 42%;
+    z-index: 3;
+    margin-top: 35.5%;
+    margin-left: 28%;
+    rotate: -3deg;
+    cursor: pointer;
+   }
+
+   .page_5{
+    position: absolute;
+    width: 42%;
+    z-index: 2;
+    margin-top: 35.5%;
+    margin-left: 28%;
+    rotate: 3deg;
+    cursor: pointer;
+
+   }
+
+   .space_flower_1{
+    position: absolute;
+    width: 24%;
+    z-index: 7;
+    margin-top: 10%;
+    margin-left: 1%;
+   }
+
+   .space_flower_11{
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+   }
+
+   .space_flower_2{
+    position: absolute;
+    width: 24%;
+    z-index: 7;
+    margin-left: 75%;
+    margin-top: 14%;
+   }
+
+   .space_flower_22{
+    position: absolute;
+    width: 100%;
+   }
+
+   .photo_2{
+    
+    position: absolute;
+    z-index: 2;
+    width: 30%;
+    margin-top: 78%;
+    margin-left: 2%;
+   }
+   .proigr{
+    position: absolute;
+    width: 100%;
+   }
+
+   .plan{
+    position: absolute;
+    width: 100%;
+    margin-left: 108.5%;
+   }
+
+   .shelves{
+    position: absolute;
+    width: 100%;
+    margin-left: 217%;
+   }
+
+   .space_flower_3{
+    position: absolute;
+    width: 70%;
+    margin-top: 85%;
+    z-index: 3;
+    margin-left: 15%;
+   }
+
+   .space_flower_33{
+    position: absolute;
+    width: 100%;
+   }
+
+   .v2{
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 57%;
+    margin-left: 80%;
+    rotate: 40deg;
+}
+
+.anim_v2{
+    position: absolute;
+    width:300% ;
+    animation: anim_v2 0.8s steps(1)  infinite;
+}
+
+@keyframes anim_v2{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}

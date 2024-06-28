@@ -1,0 +1,489 @@
+body{
+    overflow-x: hidden;
+   }
+
+  body::-webkit-scrollbar {
+    position: absolute;
+    width: 4px;               /* ширина scrollbar */
+  }
+  body::-webkit-scrollbar-track {
+    position: absolute;
+    background: rgb(155, 186, 110);
+    overflow: overlay;        /* цвет дорожки */
+  }
+  body::-webkit-scrollbar-thumb {
+    position: absolute;   /* цвет плашки */
+    border-radius: 3px;       /* закругления плашки */
+    border: 30px solid rgb(255, 255, 255);  /* padding вокруг плашки */
+  }
+
+   .back_1{
+       position: absolute;
+       width: 100%;
+       margin-left: -0.967%;
+   }
+   
+   .back1_1{
+       position: absolute;
+       width: 73%;
+       rotate: 90deg;
+       margin-top: -31.98%;
+   }
+   
+   .back_2{
+    overflow: hidden;
+    height: 102vw;
+    position: absolute;
+    width: 100.5%;
+    margin-left: -0.967%;
+}
+
+.back2_2{
+    position: absolute;
+    width: 73%;
+    rotate: 90deg;
+    margin-top: 40.5%;
+}
+   .navbar{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: absolute;
+       margin-left: 6.8%;
+       text-shadow: 0px 0px 3px white;
+    
+       
+   }
+   
+   .navbar_on{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 3;
+       position: relative;
+       margin-left: 10%;
+       text-shadow: 0px 0px 3px white;
+        margin-top: 2%;
+    }
+       
+   
+   #back_to_menu_on{
+    display: none;
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -9.2%;
+   }
+   
+   #shop_on{
+       position: absolute;
+       margin-left: -3.9%;
+   }
+   
+   #space_on{
+    display: none;
+       position: absolute;
+       margin-left: 16%;
+   }
+   
+   #manifesto_on{
+    display: none;
+       position: absolute;
+       margin-left: 40.35%;
+   }
+   #ceremony_on{
+    display: none;
+       position: absolute;
+       margin-left: 61.75%;
+   }
+   
+   #events_on{
+       display: none;
+       position: absolute;
+       margin-left: 83.8%;
+   }
+   
+   #back_to_menu{
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -5.6%;
+   }
+
+   #back_to_menu:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   #events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#ceremony:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#manifesto:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#space:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#shop:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+
+   .notebook{
+    position: absolute;
+    width: 22%;
+    z-index: 2;
+    margin-top: 5%;
+    margin-left: 5%;
+   }
+
+   .notebook_1{
+    position: absolute;
+    width: 100%;
+   }
+
+   .notebook_g{
+    display: none;
+    position: absolute;
+    width: 100%;
+   }
+
+   .notebook_text{
+    text-shadow:0px 0px 3px white ;
+    display: none;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 70%;
+    margin-left: 15%;
+   }
+
+   .notebook_buy{
+    text-shadow:0px 0px 3px white ;
+    display: none;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 105%;
+    margin-left: 15%;
+   }
+
+   .notebook_flower{
+    position: absolute;
+    z-index: 1;
+    margin-top: 24.6%;
+    margin-left: 2.8%;
+    width: 26.5%;
+   }
+
+   .notebook_flower_1{
+    position: absolute;
+    width: 100%;
+   }
+
+   .tea{
+    overflow: hidden;
+    height: 40%;
+    position: absolute;
+    z-index: 2;
+    width: 30%;
+    margin-top: 28%;
+    margin-left: 32%;
+   }
+
+   .tea_1{
+    position: absolute;
+    width: 110%;
+    margin-top: -25%;
+   }
+
+   .tea_g{
+    display: none;
+    position: absolute;
+    margin-top: -25%;
+    margin-left: 0%;
+    width: 110%;
+
+   }
+
+   .tea_flower{
+    position: absolute;
+    z-index: 1;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 4%;
+   }
+
+   .tea_flower_1{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+   }
+
+   .tea_text{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 33%;
+    margin-left: 30%;
+   }
+
+   .tea_buy{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 52%;
+    margin-left: 30%;
+   }
+
+   .disk{
+    position: absolute;
+    z-index: 2;
+    width: 24%;
+    margin-left: 70%;
+    margin-top: 15%;
+   }
+
+
+   .disk_1{
+    position: absolute;
+    width: 100%;
+   }
+
+   .disk_g{
+    display: none;
+    position: absolute;
+    width: 100%;
+   }
+
+   .disk_flower{
+    position: absolute;
+    z-index: 1;
+    width: 30%;
+    margin-left: 65.8%;
+    margin-top: 6%;
+   }
+
+   .disk_flower_1{
+    width: 95%;
+   }
+
+   .disk_text{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 38%;
+    margin-left: 15%;
+   }
+
+   .disk_buy{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 57%;
+    margin-left: 15%;
+   }
+
+   .breloki{
+    z-index: 2;
+    position: absolute;
+    width: 23%;
+    margin-top: 50% ;
+    margin-left: 5%;
+   }
+
+   .breloki_1{
+    position: absolute;
+    width: 100%;
+   }
+   .brelok_g{
+    display: none;
+    position: absolute;
+    width: 100%;
+   }
+
+   .brelok_text{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 50%;
+    margin-left: 8%;
+   }
+
+   .brelok_buy{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 85%;
+    margin-left: 8%;
+   }
+
+   .menu{
+    
+    position: absolute;
+    width: 22%;
+    z-index: 2;
+    margin-top: 50%;
+    margin-left: 72%;
+   }
+
+   .menu_1{
+    
+    position: absolute;
+    width: 100%;
+   }
+
+   .menu_g{
+    display: none;
+    position: absolute;
+    width: 100%;
+   }
+
+    .menu_text{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 120%;
+    margin-left: 11%;
+   }
+
+   .menu_buy{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 144%;
+    margin-left: 11%;
+   }
+
+   .envelope{
+    position: absolute;
+    z-index: 2;
+    width: 33%;
+    margin-top: 80%;
+    margin-left: 31%;
+   }
+
+   .envelope_1{
+    position: absolute;
+    width: 100%;
+   }
+
+   .envelope_g{
+    display: none;
+    position: absolute;
+    width: 100%;
+   }
+
+   .envelope_text{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 28%;
+    margin-left: 4%;
+   }
+
+   .envelope_buy{
+    display: none;
+    text-shadow:0px 0px 3px white ;
+    font-size: 1.4vw;
+    position: absolute;
+    z-index: 3;
+    margin-top: 42%;
+    margin-left: 4%;
+   }
+
+   .envelope_flower{
+    position: absolute;
+    width: 51%;
+    z-index: 1;
+    margin-top: 56%;
+    margin-left: 23.5%;
+   }
+
+   .envelope_flower_1{
+    position: absolute;
+    width: 100%;
+   }
+
+   .v2{
+    position: absolute;
+    z-index: 3;
+    width: 10%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 43%;
+    margin-left: 2%;
+    rotate: 40deg;
+}
+
+.anim_v2{
+    position: absolute;
+    width:300% ;
+    animation: anim_v2 0.8s steps(1)  infinite;
+}
+
+@keyframes anim_v2{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}
+
+.v3{
+    position: absolute;
+    z-index: 3;
+    width: 6%;
+    height: 33%;
+    overflow: hidden;
+    margin-top: 1%;
+    margin-left: 3%;
+    rotate: -180deg;
+}
+
+.anim_v3{
+    position: absolute;
+    width:300% ;
+    animation: anim_v3 1s steps(1)  infinite;
+}
+
+@keyframes anim_v3{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}
+
