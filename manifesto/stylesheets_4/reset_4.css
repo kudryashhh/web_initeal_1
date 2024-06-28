@@ -1,0 +1,13 @@
+p,a{
+    color: white;
+    font-family: 'Forma';
+    text-decoration: none;
+}
+
+p::selection{
+    background: rgb(127, 169, 106);
+}
+
+a::selection{
+    background: rgb(127, 169, 106);
+}

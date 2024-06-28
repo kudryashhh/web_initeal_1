@@ -1,0 +1,237 @@
+body{
+ overflow: hidden;
+}
+.back_1{
+    position: absolute;
+    width: 100.3%;
+    margin-left: -1%;
+}
+
+.back1_1{
+    position: absolute;
+    width: 73%;
+    rotate: 90deg;
+    margin-top: -32%;
+}
+
+.navbar{
+    word-spacing: 12vw;
+    font-size: 1.4vw;
+    z-index: 2;
+    position: absolute;
+    margin-left: 6.8%;
+    text-shadow: 0px 0px 3px white;
+    
+}
+
+.navbar_on{
+    word-spacing: 12vw;
+    font-size: 1.4vw;
+    z-index: 2;
+    position: relative;
+    margin-left: 10%;
+    text-shadow: 0px 0px 3px white;
+    
+}
+
+#back_to_menu_on{
+    z-index: 3;
+    position: absolute;
+    font-size: 1.4vw;
+    margin-left: -9.2%;
+}
+
+#shop_on{
+    display: none;
+    position: absolute;
+    margin-left: -3.9%;
+}
+
+#space_on{
+    display: none;
+    position: absolute;
+    margin-left: 16%;
+}
+
+#manifesto_on{
+    display: none;
+    position: absolute;
+    margin-left: 40.35%;
+}
+#ceremony_on{
+    display: none;
+    position: absolute;
+    margin-left: 61.75%;
+}
+
+#events_on{
+    display: none;
+    position: absolute;
+    margin-left: 83.8%;
+}
+
+#events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#ceremony:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#manifesto:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#space:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#shop:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+
+#back_to_menu{
+    z-index: 3;
+    position: absolute;
+    font-size: 1.4vw;
+    margin-left: -5.6%;
+}
+
+.fl_1{
+    position: absolute;
+    z-index: 2;
+    width: 26%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+
+.f_1{
+    position: absolute;
+    width: 100%;
+}
+
+.fl_2{
+    position: absolute;
+    z-index: 2;
+    width: 24%;
+    margin-left: 36%;
+    margin-top: -1%;
+}
+
+.f_2{
+    position: absolute;
+    width: 100%;
+}
+
+.fl_3{
+    overflow: hidden;
+    position: absolute;
+    z-index: 2;
+    width:69%;
+    height: 90%;
+    margin-left: 29%;
+    margin-top: 3%;
+}
+
+.f_3{
+    position: absolute;
+    width: 100%;
+}
+
+.v1{
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 10%;
+    margin-left: 63%;
+}
+
+.anim_v{
+    position: absolute;
+    width:300% ;
+    animation: anim_v 0.7s steps(1) infinite;
+}
+
+@keyframes anim_v{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%; margin-top: 2%;}
+   75%{margin-left: -210%; margin-top: 2%;}
+   100%{margin-left: 0%;}
+}
+
+.v2{
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 22%;
+    margin-left: 28%;
+    rotate: 50deg;
+}
+
+.anim_v2{
+    position: absolute;
+    width:300% ;
+    animation: anim_v2 0.8s steps(1)  infinite;
+}
+
+@keyframes anim_v2{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}
+
+.v3{
+    position: absolute;
+    z-index: 2;
+    width: 7%;
+    height: 33%;
+    overflow: hidden;
+    margin-top: 1%;
+    margin-left: 23%;
+    rotate: 100deg;
+}
+
+.anim_v3{
+    position: absolute;
+    width:300% ;
+    animation: anim_v3 1s steps(1)  infinite;
+}
+
+@keyframes anim_v3{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}
+
+.v4{
+    position: absolute;
+    width: 4.7%;
+    z-index: 2;
+    margin-top: 33%;
+    margin-left: 53%;
+}
+
+.v4_1{
+    position: absolute;
+    width: 100%;
+}
+
+
+

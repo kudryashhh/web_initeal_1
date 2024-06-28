@@ -1,0 +1,208 @@
+body{
+    overflow: hidden;
+   }
+   .back_1{
+       position: absolute;
+       width: 100%;
+       margin-left: -1%;
+   }
+   
+   .back1_1{
+       position: absolute;
+       width: 73%;
+       rotate: 90deg;
+       margin-top: -32%;
+   }
+   
+   .navbar{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: absolute;
+       margin-left: 6.8%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   .navbar_on{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: relative;
+       margin-left: 10%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   #back_to_menu_on{
+       display: none;
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -9.2%;
+   }
+   
+   #shop_on{
+       display: none;
+       position: absolute;
+       margin-left: -3.9%;
+   }
+   
+   #space_on{
+       display: none;
+       position: absolute;
+       margin-left: 16%;
+   }
+   
+   #manifesto_on{
+       display: none;
+       position: absolute;
+       margin-left: 40.35%;
+   }
+   #ceremony_on{
+       position: absolute;
+       margin-left: 61.75%;
+   }
+   
+   #events_on{
+       display: none;
+       position: absolute;
+       margin-left: 83.8%;
+   }
+   
+   #back_to_menu{
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -5.6%;
+   }
+
+   #back_to_menu:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   #events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+
+#manifesto:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#space:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#shop:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   .ceremony_flowers{
+    position: absolute;
+    z-index: 2;
+    width: 24%;
+   }
+
+
+   .ceremony_flower_1{
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-top: -10%;
+   }
+
+   .ceremony_flower_2{
+    position: absolute;
+    z-index: 2;
+    width: 83%;
+    margin-top: 46%;
+    margin-left: 100%;
+   }
+
+   .ceremony_flower_3{
+    position: absolute;
+    z-index: 2;
+    width: 140%;
+    margin-top: -5%;
+    margin-left: 265%;
+   }
+
+   .start_ceremony{
+    font-size: 1.8vw;
+       z-index: 2;
+       position: absolute;
+       margin-left: 38%;
+       margin-top: 14%;
+       text-shadow: 0px 0px 3px white;
+       cursor: pointer;
+   }
+
+   .start_ceremony_on{
+    display: none;
+    font-size: 1.8vw;
+       z-index: 2;
+       position: absolute;
+       margin-left: 37.5%;
+       margin-top: 14%;
+       text-shadow: 0px 0px 3px white;
+       cursor: pointer;
+   }
+
+   .v1{
+    position: absolute;
+    z-index: 2;
+    width: 8%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 25%;
+    margin-left: 50%;
+    rotate: 50deg;
+}
+
+.anim_v{
+    position: absolute;
+    width:300% ;
+    animation: anim_v 0.7s steps(1) infinite;
+}
+
+@keyframes anim_v{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%; margin-top: 2%;}
+   75%{margin-left: -210%; margin-top: 2%;}
+   100%{margin-left: 0%;}
+}
+
+.v2{
+    position: absolute;
+    z-index: 2;
+    width: 7%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 4%;
+    margin-left: 68%;
+    rotate: -140deg;
+}
+
+.anim_v2{
+    position: absolute;
+    width:300% ;
+    animation: anim_v2 0.8s steps(1)  infinite;
+}
+
+@keyframes anim_v2{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}

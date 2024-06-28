@@ -1,0 +1,1065 @@
+@media screen and (min-width: 1920px){
+    .back_3{
+     margin-left: -2%;
+    }
+    .back_1{
+     margin-left: -0.5%;
+    }
+    .back_2{
+     margin-left: -0.5%;
+    }
+    .back2_2{
+     margin-left: 2%;
+    }
+     .navbar_on{
+         margin-top: 2%;
+     }
+ 
+     #back_to_menu_on{
+         z-index: 3;
+         position: absolute;
+         font-size: 1.4vw;
+         margin-left: -9.2%;
+     }
+     
+     #shop_on{
+         position: absolute;
+         margin-left: -3.9%;
+     }
+     
+     #space_on{
+         position: absolute;
+         margin-left: 16%;
+     }
+     
+     #manifesto_on{
+         position: absolute;
+         margin-left: 40.3%;
+     }
+     #ceremony_on{
+         position: absolute;
+         margin-left: 61.6%;
+     }
+     
+     #events_on{
+        
+         position: absolute;
+         margin-left: 83.6%;
+     }
+     
+     #back_to_menu{
+         z-index: 3;
+         position: absolute;
+         font-size: 1.4vw;
+         margin-left: -5.6%;
+     }
+     }
+ 
+     @media screen and (min-width: 1440px)and (max-width: 1919px){
+        .back_3{
+     margin-left: -2%;
+     height: 50vw;
+    }
+    .back_1{
+     margin-left: -0.5%;
+    }
+    .back_2{
+     margin-left: -0.5%;
+    }
+    .back2_2{
+     margin-left: 2%;
+    }
+     .navbar_on{
+         margin-top: 2%;
+     }
+ 
+     #back_to_menu_on{
+         z-index: 3;
+         position: absolute;
+         font-size: 1.4vw;
+         margin-left: -9.2%;
+     }
+     
+     #shop_on{
+         position: absolute;
+         margin-left: -3.9%;
+     }
+     
+     #space_on{
+         position: absolute;
+         margin-left: 16%;
+     }
+     
+     #manifesto_on{
+         position: absolute;
+         margin-left: 40.43%;
+     }
+     #ceremony_on{
+         position: absolute;
+         margin-left: 61.8%;
+     }
+     
+     #events_on{
+        
+         position: absolute;
+         margin-left: 83.9%;
+     }
+     
+     #back_to_menu{
+         z-index: 3;
+         position: absolute;
+         font-size: 1.4vw;
+         margin-left: -5.6%;
+     }
+     }
+ 
+     @media screen and (min-width: 1366px)and (max-width: 1439px){
+         .back_3{
+             margin-left: -2%;
+             height: 50vw;
+            }
+            .back_1{
+             margin-left: -0.5%;
+            }
+            .back_2{
+             margin-left: -0.5%;
+            }
+            .back2_2{
+             margin-left: 2%;
+            }
+             .navbar_on{
+                 margin-top: 2%;
+             }
+         
+             #back_to_menu_on{
+                 z-index: 3;
+                 position: absolute;
+                 font-size: 1.4vw;
+                 margin-left: -9.2%;
+             }
+             
+             #shop_on{
+                 position: absolute;
+                 margin-left: -3.9%;
+             }
+             
+             #space_on{
+                 position: absolute;
+                 margin-left: 16%;
+             }
+             
+             #manifesto_on{
+                 position: absolute;
+                 margin-left: 40.43%;
+             }
+             #ceremony_on{
+                 position: absolute;
+                 margin-left: 61.8%;
+             }
+             
+             #events_on{
+                
+                 position: absolute;
+                 margin-left: 83.9%;
+             }
+             
+             #back_to_menu{
+                 z-index: 3;
+                 position: absolute;
+                 font-size: 1.4vw;
+                 margin-left: -5.6%;
+             }
+             }
+         
+     
+     @media screen and (min-width: 1024px)and (max-width: 1365px){
+            .back_1{
+             margin-left: -1%;
+             margin-top: -2%;
+             width: 100.7%;
+             height: 75.5vw;
+             overflow: hidden;
+            }
+
+            .back1_1{
+                width: 80%;
+        
+            }
+            
+ 
+        
+ 
+     .navbar{
+         font-size: 2vw;
+         word-spacing: 8vw;
+     } 
+     .navbar_on{
+         margin-top: 2%;
+     }  
+ 
+     #back_to_menu_on{
+         z-index: 3;
+         position: absolute;
+         font-size: 2vw;
+         margin-left: -9.2%;
+     }
+     
+     #shop_on{
+         font-size: 2vw;
+         position: absolute;
+         margin-left: -4%;
+     }
+     
+     #space_on{
+         font-size: 2vw;
+         position: absolute;
+         margin-left: 14.3%;
+     }
+     
+     #manifesto_on{
+         font-size: 2vw;
+         position: absolute;
+         margin-left: 38.9%;
+     }
+     #ceremony_on{
+         font-size: 2vw;
+         position: absolute;
+         margin-left: 59.2%;
+     }
+     
+     #events_on{
+         font-size: 2vw;
+         position: absolute;
+         margin-left: 80.7%;
+     }
+     
+     #back_to_menu{
+         z-index: 3;
+         position: absolute;
+         font-size: 2vw;
+         margin-left: -5.6%;
+     }
+     }
+     
+     @media screen and (min-width: 768px)and (max-width: 1023px){
+        .back_1{
+            margin-left: -1%;
+            margin-top: -38.6%;
+            width: 106.5%;
+            height: 220vw;
+            overflow: hidden;
+           }
+
+           .back1_1{
+               width: 173%;
+       
+           }
+
+           .v1{
+            width: 25%;
+            margin-left: 65%;
+            opacity: 0.6;
+           }
+
+           .v2{
+            width: 25%;
+            margin-left: 2%;
+            margin-top: 80%;
+            opacity: 0.6;
+           }
+
+           .v3{
+            width: 25%;
+            margin-left: 65%;
+            margin-top: 120%;
+            opacity: 0.6;
+           }
+
+
+           .a1{
+            display: none;
+            font-size: 4vw;
+            margin-top: 10%;
+           }
+
+           .a2{
+            display: none;
+            font-size: 4vw;
+            margin-top: 15%;
+           }
+
+           .a3{
+            display: none;
+            font-size: 4vw;
+            margin-top: 19%;
+           }
+
+           .a4{
+            display: none;
+            font-size: 4vw;
+            margin-top: 23%;
+           }
+
+           .a5{
+            display: none;
+            font-size: 4vw;
+            margin-top: 27%;
+           }
+
+           .b1{
+            display: none;
+            font-size: 4vw;
+            margin-top: 40%;
+           }
+
+           .b2{
+            display: none;
+            font-size: 4vw;
+            margin-top: 45%;
+           }
+
+           .b3{
+            display: none;
+            font-size: 4vw;
+            margin-top: 49%;
+           }
+
+           .b4{
+            display: none;
+            font-size: 4vw;
+            margin-top: 53%;
+           }
+
+           .c1{
+            display: none;
+            font-size: 4vw;
+            margin-top: 63%;
+           }
+
+           .c2{
+            display: none;
+            font-size: 4vw;
+            margin-top: 68%;
+           }
+
+           .c3{
+            display: none;
+            font-size: 4vw;
+            margin-top: 72%;
+           }
+
+           .c4{
+            display: none;
+            font-size: 4vw;
+            margin-top: 76%;
+           }
+
+           .c5{
+            display: none;
+            font-size: 4vw;
+            margin-top: 80%;
+           }
+
+           .c6{
+            display: none;
+            font-size: 4vw;
+            margin-top: 84%;
+           }
+
+           .c7{
+            display: none;
+            font-size: 4vw;
+            margin-top: 88%;
+           }
+ 
+
+           .d1{
+            display: none;
+           }
+           .d2{
+            display: none;
+           }
+           .d3{
+            display: none;
+           }
+           .d4{
+            display: none;
+           }
+           .d5{
+            display: none;
+           }
+
+           .text{
+            display: block;
+            position: absolute;
+            z-index: 3;
+            text-align: center;
+            font-size: 4vw;
+            width: 80%;
+            margin-left: 12%;
+            margin-top: 10%;
+           }
+ 
+            
+ 
+            
+            
+        
+ 
+ 
+ 
+     .navbar{
+         font-size: 2.8vw;
+         word-spacing: 4vw;
+     } 
+     .navbar_on{
+         margin-top: 2%;
+     }  
+ 
+     #back_to_menu_on{
+         z-index: 3;
+         position: absolute;
+         font-size: 2.8vw;
+         margin-left: -9.2%;
+     }
+     
+     #shop_on{
+         font-size: 2.8vw;
+         position: absolute;
+         margin-left: -4.4%;
+     }
+     
+     #space_on{
+         font-size: 2.8vw;
+         position: absolute;
+         margin-left: 13.4%;
+     }
+     
+     #manifesto_on{
+         font-size: 2.8vw;
+         position: absolute;
+         margin-left: 39.9%;
+     }
+     #ceremony_on{
+         font-size: 2.8vw;
+         position: absolute;
+         margin-left: 60.4%;
+     }
+     
+     #events_on{
+         font-size: 2.8vw;
+         position: absolute;
+         margin-left: 82.5%;
+     }
+     
+     #back_to_menu{
+         z-index: 3;
+         position: absolute;
+         font-size: 2.8vw;
+         margin-left: -5.6%;
+     }  
+     }
+     @media screen and (min-width: 414px)and (max-width: 767px){
+         .back_1{
+             margin-top: -7%;
+             margin-left: -2%;
+             width: 108%;
+             height: 600vw;
+             overflow: hidden;
+ 
+         }
+         .back1_1{
+             width: 367%;
+             transform: rotate(90deg);
+             
+         }
+ .back_3{
+     width: 30%;
+ }
+         back_2{
+             overflow: hidden;
+             width: 100%;
+             height: 210vw;
+             margin-top: 100%;
+            }
+     
+            .back2_2{
+             transform: rotate(90deg);
+             width: 260%;
+             margin-left: -0.5%;
+            }
+ 
+    
+               .v1{
+                width: 25%;
+                margin-left: 65%;
+                opacity: 0.6;
+               }
+    
+               .v2{
+                width: 25%;
+                margin-left: 2%;
+                margin-top: 240%;
+                opacity: 0.6;
+               }
+    
+               .v3{
+                width: 25%;
+                margin-left: 65%;
+                margin-top: 120%;
+                opacity: 0.6;
+               }
+    
+    
+               .a1{
+                display: none;
+                font-size: 4vw;
+                margin-top: 10%;
+               }
+    
+               .a2{
+                display: none;
+                font-size: 4vw;
+                margin-top: 15%;
+               }
+    
+               .a3{
+                display: none;
+                font-size: 4vw;
+                margin-top: 19%;
+               }
+    
+               .a4{
+                display: none;
+                font-size: 4vw;
+                margin-top: 23%;
+               }
+    
+               .a5{
+                display: none;
+                font-size: 4vw;
+                margin-top: 27%;
+               }
+    
+               .b1{
+                display: none;
+                font-size: 4vw;
+                margin-top: 40%;
+               }
+    
+               .b2{
+                display: none;
+                font-size: 4vw;
+                margin-top: 45%;
+               }
+    
+               .b3{
+                display: none;
+                font-size: 4vw;
+                margin-top: 49%;
+               }
+    
+               .b4{
+                display: none;
+                font-size: 4vw;
+                margin-top: 53%;
+               }
+    
+               .c1{
+                display: none;
+                font-size: 4vw;
+                margin-top: 63%;
+               }
+    
+               .c2{
+                display: none;
+                font-size: 4vw;
+                margin-top: 68%;
+               }
+    
+               .c3{
+                display: none;
+                font-size: 4vw;
+                margin-top: 72%;
+               }
+    
+               .c4{
+                display: none;
+                font-size: 4vw;
+                margin-top: 76%;
+               }
+    
+               .c5{
+                display: none;
+                font-size: 4vw;
+                margin-top: 80%;
+               }
+    
+               .c6{
+                display: none;
+                font-size: 4vw;
+                margin-top: 84%;
+               }
+    
+               .c7{
+                display: none;
+                font-size: 4vw;
+                margin-top: 88%;
+               }
+     
+    
+               .d1{
+                display: none;
+               }
+               .d2{
+                display: none;
+               }
+               .d3{
+                display: none;
+               }
+               .d4{
+                display: none;
+               }
+               .d5{
+                display: none;
+               }
+    
+               .text{
+                display: block;
+                position: absolute;
+                z-index: 3;
+                text-align: left;
+                font-size: 7vw;
+                width: 80%;
+                margin-left: 12%;
+                margin-top: 72%;
+               }
+     
+                
+     
+                
+     
+ 
+     .navbar{
+        z-index: 3;
+         font-size: 9vw;
+         word-spacing: 6vw;
+         margin-top: 2%;
+         margin-left: 13%;
+     } 
+ 
+     .navbar_on{
+         display: none;
+         margin-top: 2%;
+     }  
+     
+     #back_to_menu{
+         z-index: 3;
+         position: absolute;
+         font-size: 9vw;
+         margin-left: -10%;
+     }  
+     }
+     @media screen and (min-width: 360px)and (max-width: 413px){ 
+        .back_1{
+            margin-top: -7%;
+            margin-left: -2.7%;
+            width: 108%;
+            height: 600vw;
+            overflow: hidden;
+
+        }
+        .back1_1{
+            width: 367%;
+            transform: rotate(90deg);
+            
+        }
+.back_3{
+    width: 30%;
+}
+        back_2{
+            overflow: hidden;
+            width: 100%;
+            height: 210vw;
+            margin-top: 100%;
+           }
+    
+           .back2_2{
+            transform: rotate(90deg);
+            width: 260%;
+            margin-left: -0.5%;
+           }
+
+   
+              .v1{
+               width: 25%;
+               margin-left: 65%;
+               opacity: 0.6;
+              }
+   
+              .v2{
+               width: 25%;
+               margin-left: 2%;
+               margin-top: 240%;
+               opacity: 0.6;
+              }
+   
+              .v3{
+               width: 25%;
+               margin-left: 65%;
+               margin-top: 120%;
+               opacity: 0.6;
+              }
+   
+   
+              .a1{
+               display: none;
+               font-size: 4vw;
+               margin-top: 10%;
+              }
+   
+              .a2{
+               display: none;
+               font-size: 4vw;
+               margin-top: 15%;
+              }
+   
+              .a3{
+               display: none;
+               font-size: 4vw;
+               margin-top: 19%;
+              }
+   
+              .a4{
+               display: none;
+               font-size: 4vw;
+               margin-top: 23%;
+              }
+   
+              .a5{
+               display: none;
+               font-size: 4vw;
+               margin-top: 27%;
+              }
+   
+              .b1{
+               display: none;
+               font-size: 4vw;
+               margin-top: 40%;
+              }
+   
+              .b2{
+               display: none;
+               font-size: 4vw;
+               margin-top: 45%;
+              }
+   
+              .b3{
+               display: none;
+               font-size: 4vw;
+               margin-top: 49%;
+              }
+   
+              .b4{
+               display: none;
+               font-size: 4vw;
+               margin-top: 53%;
+              }
+   
+              .c1{
+               display: none;
+               font-size: 4vw;
+               margin-top: 63%;
+              }
+   
+              .c2{
+               display: none;
+               font-size: 4vw;
+               margin-top: 68%;
+              }
+   
+              .c3{
+               display: none;
+               font-size: 4vw;
+               margin-top: 72%;
+              }
+   
+              .c4{
+               display: none;
+               font-size: 4vw;
+               margin-top: 76%;
+              }
+   
+              .c5{
+               display: none;
+               font-size: 4vw;
+               margin-top: 80%;
+              }
+   
+              .c6{
+               display: none;
+               font-size: 4vw;
+               margin-top: 84%;
+              }
+   
+              .c7{
+               display: none;
+               font-size: 4vw;
+               margin-top: 88%;
+              }
+    
+   
+              .d1{
+               display: none;
+              }
+              .d2{
+               display: none;
+              }
+              .d3{
+               display: none;
+              }
+              .d4{
+               display: none;
+              }
+              .d5{
+               display: none;
+              }
+   
+              .text{
+               display: block;
+               position: absolute;
+               z-index: 3;
+               text-align: left;
+               font-size: 7vw;
+               width: 80%;
+               margin-left: 12%;
+               margin-top: 72%;
+              }
+    
+               
+    
+               
+    
+
+    .navbar{
+       z-index: 3;
+        font-size: 9vw;
+        word-spacing: 6vw;
+        margin-top: 2%;
+        margin-left: 13%;
+    } 
+
+    .navbar_on{
+        display: none;
+        margin-top: 2%;
+    }  
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 9vw;
+        margin-left: -10%;
+    }  
+    }
+     
+     @media screen and (min-width: 0px)and (max-width: 359px){ 
+        .back_1{
+            margin-top: -7%;
+            margin-left: -2.7%;
+            width: 108%;
+            height: 600vw;
+            overflow: hidden;
+
+        }
+        .back1_1{
+            width: 367%;
+            transform: rotate(90deg);
+            
+        }
+.back_3{
+    width: 30%;
+}
+        back_2{
+            overflow: hidden;
+            width: 100%;
+            height: 210vw;
+            margin-top: 100%;
+           }
+    
+           .back2_2{
+            transform: rotate(90deg);
+            width: 260%;
+            margin-left: -0.5%;
+           }
+
+   
+              .v1{
+               width: 25%;
+               margin-left: 65%;
+               opacity: 0.6;
+              }
+   
+              .v2{
+               width: 25%;
+               margin-left: 2%;
+               margin-top: 240%;
+               opacity: 0.6;
+              }
+   
+              .v3{
+               width: 25%;
+               margin-left: 65%;
+               margin-top: 120%;
+               opacity: 0.6;
+              }
+   
+   
+              .a1{
+               display: none;
+               font-size: 4vw;
+               margin-top: 10%;
+              }
+   
+              .a2{
+               display: none;
+               font-size: 4vw;
+               margin-top: 15%;
+              }
+   
+              .a3{
+               display: none;
+               font-size: 4vw;
+               margin-top: 19%;
+              }
+   
+              .a4{
+               display: none;
+               font-size: 4vw;
+               margin-top: 23%;
+              }
+   
+              .a5{
+               display: none;
+               font-size: 4vw;
+               margin-top: 27%;
+              }
+   
+              .b1{
+               display: none;
+               font-size: 4vw;
+               margin-top: 40%;
+              }
+   
+              .b2{
+               display: none;
+               font-size: 4vw;
+               margin-top: 45%;
+              }
+   
+              .b3{
+               display: none;
+               font-size: 4vw;
+               margin-top: 49%;
+              }
+   
+              .b4{
+               display: none;
+               font-size: 4vw;
+               margin-top: 53%;
+              }
+   
+              .c1{
+               display: none;
+               font-size: 4vw;
+               margin-top: 63%;
+              }
+   
+              .c2{
+               display: none;
+               font-size: 4vw;
+               margin-top: 68%;
+              }
+   
+              .c3{
+               display: none;
+               font-size: 4vw;
+               margin-top: 72%;
+              }
+   
+              .c4{
+               display: none;
+               font-size: 4vw;
+               margin-top: 76%;
+              }
+   
+              .c5{
+               display: none;
+               font-size: 4vw;
+               margin-top: 80%;
+              }
+   
+              .c6{
+               display: none;
+               font-size: 4vw;
+               margin-top: 84%;
+              }
+   
+              .c7{
+               display: none;
+               font-size: 4vw;
+               margin-top: 88%;
+              }
+    
+   
+              .d1{
+               display: none;
+              }
+              .d2{
+               display: none;
+              }
+              .d3{
+               display: none;
+              }
+              .d4{
+               display: none;
+              }
+              .d5{
+               display: none;
+              }
+   
+              .text{
+               display: block;
+               position: absolute;
+               z-index: 3;
+               text-align: left;
+               font-size: 7vw;
+               width: 80%;
+               margin-left: 12%;
+               margin-top: 72%;
+              }
+    
+               
+    
+               
+    
+
+    .navbar{
+       z-index: 3;
+        font-size: 9vw;
+        word-spacing: 6vw;
+        margin-top: 2%;
+        margin-left: 13%;
+    } 
+
+    .navbar_on{
+        display: none;
+        margin-top: 2%;
+    }  
+    
+    #back_to_menu{
+        z-index: 3;
+        position: absolute;
+        font-size: 9vw;
+        margin-left: -10%;
+    }  
+    }

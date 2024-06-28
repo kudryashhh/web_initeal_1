@@ -1,0 +1,690 @@
+body{
+    overflow: hidden;
+   }
+   .back_1{
+       position: absolute;
+       width: 100%;
+       margin-left: -1%;
+   }
+   
+   .back1_1{
+       position: absolute;
+       width: 73%;
+       rotate: 90deg;
+       margin-top: -32%;
+   }
+   
+   .navbar{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: absolute;
+       margin-left: 6.8%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   .navbar_on{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: relative;
+       margin-left: 10%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   #back_to_menu_on{
+       display: none;
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -9.2%;
+   }
+   
+   #shop_on{
+       display: none;
+       position: absolute;
+       margin-left: -3.9%;
+   }
+   
+   #space_on{
+       display: none;
+       position: absolute;
+       margin-left: 16%;
+   }
+   
+   #manifesto_on{
+       display: none;
+       position: absolute;
+       margin-left: 40.35%;
+   }
+   #ceremony_on{
+       display: none;
+       position: absolute;
+       margin-left: 61.75%;
+   }
+   
+   #events_on{
+       position: absolute;
+       margin-left: 83.8%;
+   }
+   
+   #back_to_menu{
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -5.6%;
+   }
+
+   #back_to_menu:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   #events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#ceremony:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#manifesto:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#space:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#shop:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+
+   .posters_1{
+    position: absolute;
+    z-index: 3;
+    width: 14%;
+    margin-top: 25%;
+    margin-left: 17%;
+   }
+
+   .poster1_1{
+    display: none;
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    margin-left: 61.8%;
+    
+   }
+
+   .poster1_2{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 182%;
+   }
+
+
+   .poster1_3{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 302.2%;
+   }
+
+
+   .posters{
+    position: absolute;
+    width: 14%;
+    margin-left: 23.7%;
+   }
+   
+   .poster_1{
+    cursor: pointer;
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    margin-top: 26%;
+    margin-left: 14%;
+   }
+
+
+   .poster_2{
+    cursor: pointer;
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    margin-top: 26%;
+    margin-left: 134%;
+   }
+
+   .poster_3{
+    cursor: pointer;
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+    margin-top: 26%;
+    margin-left: 254%;
+   }
+
+
+   .posters_2{
+    position: absolute;
+    z-index: 3;
+    width: 14%;
+    margin-top: 25%;
+    margin-left: 25.7%;
+   }
+
+   .poster2_1{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    
+   }
+
+   .poster2_2{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 120%;
+   }
+
+
+   .poster2_3{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 240%;
+   }
+
+   .posters_3{
+    position: absolute;
+    z-index: 3;
+    width: 14%;
+    margin-top: 25%;
+    margin-left: 25.7%;
+   }
+
+   .poster3_1{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    
+   }
+
+   .poster3_2{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 120%;
+   }
+
+   .v1{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 6%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 8%;
+    margin-left: 75%;
+}
+
+.anim_v{
+    position: absolute;
+    width:300% ;
+    animation: anim_v 0.7s steps(1) infinite;
+}
+
+@keyframes anim_v{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%; margin-top: 2%;}
+   75%{margin-left: -210%; margin-top: 2%;}
+   100%{margin-left: 0%;}
+}
+
+.v2{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 9.7%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 20%;
+    margin-left: 60%;
+    rotate: 50deg;
+}
+
+.anim_v2{
+    position: absolute;
+    width:300% ;
+    animation: anim_v2 0.8s steps(1)  infinite;
+}
+
+@keyframes anim_v2{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}
+
+
+.poster_flower{
+    position: absolute;
+    width: 19%;
+    z-index: 2;
+    margin-left: 81%;
+    margin-top: -8.5%;
+}
+
+.poster_flower_1{
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    margin-top: -80%;
+}
+
+.poster_flower_2{
+    position: absolute;
+    width: 16%;
+    z-index: 2;
+    margin-left: 1%;
+    margin-top: -60%;
+}
+
+.poster_flower_22{
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    margin-top: -41%;
+}
+
+.poster_flower_3{
+    position: absolute;
+    width: 52%;
+    z-index: 2;
+    margin-left: 22.5%;
+    margin-top: 29%;
+}
+
+.poster_flower_33{
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    margin-top: -14%;
+}
+
+
+.posters_1g{
+    position: absolute;
+    z-index: 3;
+    width: 14%;
+    height: 20%;
+    margin-top: 25.02%;
+    margin-left: 25.7%;
+   }
+
+   .poster1_1g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    
+   }
+
+   .poster1_2g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 120%;
+   }
+
+
+   .poster1_3g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 240%;
+   }
+
+   .g1{
+    display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 26.5%;
+    margin-top: 35%;
+    text-shadow: 0px 0px 3px white;
+}
+
+.g2{
+    display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 43.3%;
+    margin-top: 35%;
+    text-shadow: 0px 0px 3px white;
+}
+
+.g3{
+   display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 60.1%;
+    margin-top: 35%;
+    text-shadow: 0px 0px 3px white;
+}
+
+
+.posters_3g{
+    position: absolute;
+    z-index: 3;
+    width: 14%;
+    height: 20%;
+    margin-top: 25%;
+    margin-left: 25.7%;
+   }
+
+   .poster3_1g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    
+   }
+
+   .poster3_2g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 120%;
+   }
+
+   .g1_3{
+    display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 26.5%;
+    margin-top: 37%;
+    text-shadow: 0px 0px 3px white;
+}
+
+.g2_3{
+    display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 43.3%;
+    margin-top: 37%;
+    text-shadow: 0px 0px 3px white;
+}
+
+
+.posters_2g{
+    position: absolute;
+    z-index: 3;
+    width: 14%;
+    height: 20%;
+    margin-top: 25%;
+    margin-left: 25.7%;
+   }
+
+   .poster2_1g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    
+   }
+
+   .poster2_2g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100%;
+    margin-left: 120%;
+   }
+
+
+   .poster2_3g{
+    display: none;
+    position: absolute;
+    z-index: 2;
+    width: 100.5%;
+    margin-left: 240%;
+    
+   }
+
+
+   .g1_2{
+    display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 26.5%;
+    margin-top: 35%;
+    text-shadow: 0px 0px 3px white;
+}
+
+.g1_reg{
+    cursor: pointer;
+}
+
+.g2_reg{
+    cursor: pointer;
+}
+
+.g3_reg{
+    cursor: pointer;
+}
+
+.g2_2{
+    display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 43.3%;
+    margin-top: 35%;
+    text-shadow: 0px 0px 3px white;
+}
+
+.g3_2{
+   display: none;
+    font-size: 1.4vw;
+    z-index: 4;
+    position: absolute;
+    margin-left: 60.1%;
+    margin-top: 35%;
+    text-shadow: 0px 0px 3px white;
+}
+
+
+.registration{
+    display: none;
+    position: absolute;
+    z-index: 5;
+    width: 100%;
+    margin-top: -2%;
+    margin-left: -0.5%;
+
+}
+
+.blur{
+    display: block;
+    position: absolute;
+    width: 100%; 
+}
+
+.touch{
+    display: none;
+    position: absolute;
+    width: 25%;
+    height: 96%;
+    overflow: hidden;
+    z-index: 6;
+    margin-left: 2%;
+    margin-top: -2%;
+    filter: saturate(0);
+    rotate: -50deg;
+
+}
+
+.touch_1{
+    position: absolute;
+    width: 480%;
+    margin-left: -35%;
+
+
+}
+
+.touch_animate{
+    animation: touches 1s steps(1) infinite;
+}
+
+@keyframes touches{
+    0%{margin-left: -35%;}
+    16%{margin-left: -137.9%;}
+    33%{margin-left: -248%;}
+    50%{margin-left: -370%;}
+    67%{margin-left: -248%;}
+    84%{margin-left: -137.9%;}
+}
+
+.moss_1{
+    rotate: 60deg;
+    margin-left: 80%;
+    width: 20%;
+    display: none;
+    position: absolute;
+    z-index: 6;
+    filter: saturate(0);
+}
+
+
+
+.banner{
+    position: absolute;
+    z-index: 8;
+    margin-top: 16%;
+    margin-left: 40%;
+    width: 30%;
+    font-size: 1.4vw;
+    position: absolute;
+   padding-bottom: 20%;
+}
+
+
+.dannie{
+    text-shadow: 0px 0px 3px rgb(91, 88, 88);
+position: absolute;
+    font-size: 1.4vw;
+    color: rgb(255, 255, 255);
+    font-family: 'Forma';
+    text-decoration: none;
+    margin-top: 40%;
+    margin-left: 7%;
+    width: 70%;
+}
+
+#dannie_1{
+    position: absolute;
+        font-size: 1.4vw;
+        font-family: 'Forma';
+        text-decoration: none;
+        margin-top: 42.5%;
+        margin-left: -32.6%;
+        width: 70%;
+    }
+
+
+input[type="checkbox"]{
+    border-radius: 0%;
+    cursor: pointer;
+}
+
+#namee{
+    position: absolute;
+}
+
+#surname{
+    position: absolute;
+    margin-top: 8%;
+}
+#pochta{
+    position: absolute;
+    margin-top: 20%;
+}
+#telefon{
+    position: absolute;
+    margin-top: 28%;
+}
+
+input{
+    width: 60%;
+    height: 8%;
+    border-radius: 0%;
+    border: 1px solid #ffffff;
+}
+
+button{
+    border:none;
+    background-color: black;
+    position: absolute;
+    font-size: 1.4vw;
+    color: rgb(255, 255, 255);
+    font-family: 'Forma';
+    text-decoration: none;
+    margin-top: 55%;
+    width: 61%;
+    height: 12%;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(119, 115, 115);
+}
+
+.zagolovok{
+    text-shadow: 0px 0px 3px rgb(91, 88, 88);
+    margin-top: 11%;
+    margin-left: 40%;
+    position: absolute;
+    font-size: 1.4vw;
+    z-index: 6;
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

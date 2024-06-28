@@ -1,0 +1,642 @@
+body{
+    overflow-x: hidden;
+   }
+
+   body::-webkit-scrollbar {
+    position: absolute;
+    width: 4px;               /* ширина scrollbar */
+  }
+  body::-webkit-scrollbar-track {
+    position: absolute;
+    background: rgb(155, 186, 110);
+    overflow: overlay;        /* цвет дорожки */
+  }
+  body::-webkit-scrollbar-thumb {
+    position: absolute;   /* цвет плашки */
+    border-radius: 3px;       /* закругления плашки */
+    border: 30px solid rgb(255, 255, 255);  /* padding вокруг плашки */
+  }
+
+   .back_1{
+       position: absolute;
+       width: 100%;
+       margin-left: -1%;
+   }
+   
+   .back1_1{
+       position: absolute;
+       width: 73%;
+       rotate: 90deg;
+       margin-top: -32%;
+   }
+
+   .back_2{
+    overflow: hidden;
+    height: 20vw;
+    position: absolute;
+    width: 100.5%;
+    margin-left: -0.967%;
+}
+
+.back2_2{
+    position: absolute;
+    width: 73%;
+    rotate: 90deg;
+    margin-top: 40.5%;
+}
+   
+   .navbar{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: absolute;
+       margin-left: 6.8%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   .navbar_on{
+       word-spacing: 12vw;
+       font-size: 1.4vw;
+       z-index: 2;
+       position: relative;
+       margin-left: 10%;
+       text-shadow: 0px 0px 3px white;
+       
+   }
+   
+   #back_to_menu_on{
+    display: none;
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -9.2%;
+   }
+   
+   #shop_on{
+    display: none;
+       position: absolute;
+       margin-left: -3.9%;
+   }
+   
+   #space_on{
+    display: none;
+       position: absolute;
+       margin-left: 16%;
+   }
+   
+   #manifesto_on{
+       position: absolute;
+       margin-left: 40.35%;
+   }
+   #ceremony_on{
+    display: none;
+       position: absolute;
+       margin-left: 61.75%;
+   }
+   
+   #events_on{
+    display: none;
+       position: absolute;
+       margin-left: 83.8%;
+   }
+   
+   #back_to_menu{
+       z-index: 3;
+       position: absolute;
+       font-size: 1.4vw;
+       margin-left: -5.6%;
+   }
+
+   #back_to_menu:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   #events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#ceremony:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+
+#space:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#events:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+#shop:hover{
+    text-decoration: underline;
+    text-decoration-line:underline;
+}
+
+   .manifest{
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 8%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .manifest:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   
+.text{
+    display: none;
+}
+   .a1{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 7%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .a1:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+   .a2{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 10%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .a2:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .a3{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 12%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .a3:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .a4{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 14%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .a4:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .a5{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 16%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .a5:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+
+
+   .b1{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 21%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .b1:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .b2{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 24%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .b2:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .b3{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 26%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .b3:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .b4{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 28%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .b4:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .c1{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 33%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .c1:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .c2{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 36%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .c2:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .c3{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 38%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .c3:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .c4{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 40%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .c4:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .c5{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 42%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .c5:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .c6{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 44%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .c6:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .c7{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 46%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .c7:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .d1{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 51%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .d1:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+
+   .d2{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 54%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .d2:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .d3{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 56%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .d3:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .d4{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 58%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .d4:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+   .d5{
+    cursor: default;
+    filter: blur(0.2vw);
+    margin-left: 10.5%;
+    width: 79%;
+    margin-top: 60%;
+    position: absolute;
+    font-size: 2.5vw;
+    z-index: 2;
+    text-align: center;
+   }
+
+   .d5:hover{
+    filter: blur(0vw);
+    transition: 0.5s;
+   }
+
+
+   .v1{
+    position: absolute;
+    z-index: 2;
+    width: 8%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 14%;
+    margin-left: 86%;
+    rotate: 50deg;
+}
+
+.anim_v{
+    position: absolute;
+    width:300% ;
+    animation: anim_v 0.7s steps(1) infinite;
+}
+
+@keyframes anim_v{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%; margin-top: 2%;}
+   75%{margin-left: -210%; margin-top: 2%;}
+   100%{margin-left: 0%;}
+}
+
+.v2{
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 25%;
+    overflow: hidden;
+    margin-top: 43%;
+    margin-left: 2%;
+    rotate: 40deg;
+}
+
+.anim_v2{
+    position: absolute;
+    width:300% ;
+    animation: anim_v2 0.8s steps(1)  infinite;
+}
+
+@keyframes anim_v2{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}
+
+.v3{
+    position: absolute;
+    z-index: 2;
+    width: 6%;
+    height: 33%;
+    overflow: hidden;
+    margin-top: 1%;
+    margin-left: 3%;
+    rotate: -180deg;
+}
+
+.anim_v3{
+    position: absolute;
+    width:300% ;
+    animation: anim_v3 1s steps(1)  infinite;
+}
+
+@keyframes anim_v3{
+   0%{margin-left: 0%;}
+   50%{margin-left: -105%;}
+   75%{margin-left: -210%;}
+   100%{margin-left: 0%;}
+}
+
+.touch{
+    position: absolute;
+    width: 25%;
+    height: 96%;
+    overflow: hidden;
+    z-index: 2;
+    margin-left: 67%;
+    margin-top: 11%;
+
+}
+
+.touch_1{
+    position: absolute;
+    width: 480%;
+    margin-left: -35%;
+
+
+}
+
+.touch_animate{
+    animation: touches 1s steps(1) infinite;
+}
+
+@keyframes touches{
+    0%{margin-left: -35%;}
+    16%{margin-left: -137.9%;}
+    33%{margin-left: -248%;}
+    50%{margin-left: -370%;}
+    67%{margin-left: -248%;}
+    84%{margin-left: -137.9%;}
+}
+
+
+
+
+
+
+
+
+   
+
+
+   
+   
+   
+
+
+
+   
